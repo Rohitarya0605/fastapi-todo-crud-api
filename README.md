@@ -66,7 +66,7 @@ fastapi-todo-crud-api/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fastapi-todo-crud-api.git
+git clone https://github.com/Rohitarya0605/fastapi-todo-crud-api.git
 ```
 
 ### Move into Project Directory
@@ -142,7 +142,7 @@ http://127.0.0.1:8000/redoc
 
 ### Swagger Interface
 
-![CRUD Demo](screenshots/crud-demo.png)
+![CRUD Demo](screenshots/Crud-demo.png)
 
 This interface allows real-time API testing directly from the browser.
 
