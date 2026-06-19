@@ -192,6 +192,5 @@ Through this project, I gained practical experience in:
 B.Tech Electronics & Communication Engineering
 MIT ADT University, Pune
 
-GitHub: https://github.com/YOUR_USERNAME
 
 ---
