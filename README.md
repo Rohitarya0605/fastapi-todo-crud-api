@@ -141,8 +141,7 @@ http://127.0.0.1:8000/redoc
 ## Working Demo
 
 ### Swagger Interface
-
-![CRUD Demo](screenshots/Crud-demo.png)
+![CRUD Demo](fastapi-todo-curd-api/Crud-demo.png)
 
 This interface allows real-time API testing directly from the browser.
 
